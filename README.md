@@ -1,23 +1,23 @@
 # AI Route Planning Prototype
 
-এটি একটি Python Tkinter UI ভিত্তিক সিমুলেশন অ্যাপ্লিকেশন।
+This is a Python Tkinter-based simulation application for route planning.
 
-## বৈশিষ্ট্য
+## Features
 
-- বাংলা ভাষার UI
-- বর্তমান অবস্থান ও গন্তব্য অবস্থান নির্বাচন
-- সময় নির্বাচন (ট্রাফিক অনুযায়ী)
-- AI Agent 1: সর্বনিম্ন দূরত্ব ও সর্বনিম্ন সময়ের রুট খোঁজা
-- AI Agent 2: ট্রাফিক অনুযায়ী রুট আপডেট
-- মানচিত্রের উপর রুট হাইলাইট
+- English-language user interface
+- Select current location and destination
+- Choose time of day based on traffic conditions
+- AI Agent 1: finds the shortest-distance and shortest-time routes
+- AI Agent 2: updates the route based on live traffic conditions
+- Highlights routes on the map
 
-## চালানো
+## Run
 
 ```bash
 python main.py
 ```
 
-## ফাইল
+## Files
 
-- `main.py` — UI এবং রুট লজিক
-- `README.md` — নির্দেশিকা
+- `main.py` — UI and route logic
+- `README.md` — project documentation
