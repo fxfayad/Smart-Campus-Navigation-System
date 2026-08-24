@@ -26,7 +26,7 @@ This is a simple example of graph-based route planning, similar to how real navi
 
 ## Screenshot
 
-![University of Chittagong Route Planner](./app_screenshot.png)
+![University of Chittagong Route Planner](./ss/screenshot.jpg)
 
 ## How the app works
 
