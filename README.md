@@ -24,6 +24,10 @@ This is a simple example of graph-based route planning, similar to how real navi
 - Highlight routes and traffic hotspots on the map
 - Show route summary in a text panel
 
+## Screenshot
+
+![University of Chittagong Route Planner](./app_screenshot.png)
+
 ## How the app works
 
 When the user opens the app:
